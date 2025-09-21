@@ -3,7 +3,7 @@
 # And the CLI then renames it
 
 # node files
-dist/
+# dist/ // Commented out to simply depend on this branch in other projects
 node_modules/
 
 # iOS files
